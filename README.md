@@ -33,12 +33,12 @@ This configuration helps prevent unauthorized access by locking accounts after r
 ## 📸 Screenshots
 The repository contains **7 screenshots** showing:
 1. Opening the Group Policy Editor
-2. Navigating to **Account Policies → Password Policy**
-3. Configuring minimum password length
-4. Enabling password complexity requirements
-5. Navigating to **Account Policies → Account Lockout Policy**
-6. Setting the account lockout threshold
-7. Configuring lockout duration and reset counter
+2. Navigating to **Computer Configuration 
+3. Select **Windows Settings > Security Settings > Account Policy**
+4. Select **Password Policy & View Default Settings (Very Weak)**
+5. View the changes I made (A bit strict but normal in Federal working envrionments)
+6. Select **Account Lockout Policy**
+7. View the changes I made
 
 ---
 
