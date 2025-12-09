@@ -35,9 +35,9 @@ The repository contains **7 screenshots** showing:
 1. Opening the Group Policy Editor
 2. Navigating to **Computer Configuration** 
 3. Selecting **Windows Settings > Security Settings > Account Policy**
-4. Selecting **Password Policy & View Default Settings (Very Weak)**
+4. **Current Password Policy &  Default Settings (Very Weak)**
 5. Viewing the changes I made (A bit strict but normal in Federal working envrionments)
-6. Selecting **Account Lockout Policy**
+6. Current **Account Lockout Policy**
 7. Viewing the changes I made
 
 ---
