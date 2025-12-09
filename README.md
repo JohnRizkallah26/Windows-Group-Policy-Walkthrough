@@ -33,7 +33,7 @@ This configuration helps prevent unauthorized access by locking accounts after r
 ## 📸 Screenshots
 The repository contains **7 screenshots** showing:
 1. Opening the Group Policy Editor
-2. Navigating to **Computer Configuration 
+2. Navigating to **Computer Configuration** 
 3. Selecting **Windows Settings > Security Settings > Account Policy**
 4. Selecting **Password Policy & View Default Settings (Very Weak)**
 5. Viewing the changes I made (A bit strict but normal in Federal working envrionments)
