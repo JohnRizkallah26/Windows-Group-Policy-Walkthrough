@@ -43,4 +43,21 @@ The repository contains **7 screenshots** showing:
 ---
 
 ## ✅ Outcome
-By applying these
+By applying these changes:
+- Passwords are now stronger and harder to guess
+- Accounts are protected against brute-force attacks
+- Overall login security is significantly improved
+
+---
+
+## 📂 How to Use This Repo
+- Review the screenshots for step-by-step guidance
+- Apply similar settings in your own environment using the Group Policy Editor
+- Adapt thresholds and requirements to match your organization’s security needs
+
+---
+
+## ⚠️ Notes
+- These settings apply to **Windows environments** using Group Policy Editor
+- Always balance security with usability to avoid locking out legitimate users
+- Regularly review and update policies as threats evolve
