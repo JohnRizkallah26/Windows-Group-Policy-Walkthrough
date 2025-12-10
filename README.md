@@ -2,6 +2,8 @@
 
 This walkthrough documents the steps taken to harden login settings using the Windows Group Policy Editor. The repository includes **7 screenshots** that illustrate each stage of the configuration process.
 
+**Screenshots for each step are located in Screenshots folder**
+
 ## 🎯 Objectives
 - Strengthen password requirements
 - Configure account lockout policies
